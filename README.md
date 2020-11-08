@@ -1,6 +1,6 @@
 # docker-texlive
 
-Docker image with NodeJS and OpenCV.
+🐳 Docker image with TeX Live.
 
 ## How to use this image
 

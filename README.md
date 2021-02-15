@@ -13,14 +13,14 @@ Pull from Docker Registry:
 
 Build from GitHub:  
 ```
-docker build -t robingenz/docker-texlive github.com/robingenz/docker-texlive
+docker build -t robingenz/texlive github.com/robingenz/docker-texlive
 ```
 
 ### Run image
 
 Run the docker image:  
 ```
-docker run -it robingenz/docker-texlive bash
+docker run -it robingenz/texlive bash
 ```
 
 ## Questions / Issues

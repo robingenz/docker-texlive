@@ -12,12 +12,16 @@ Pull from Docker Registry:
 ### Build image
 
 Build from GitHub:  
-`docker build -t https://github.com/robingenz/docker-texlive github.com/robingenz/docker-texlive`
+```
+docker build -t github.com/robingenz/docker-texlive github.com/robingenz/docker-texlive
+```
 
 ### Run image
 
 Run the docker image:  
-`docker run -it github.com/robingenz/docker-texlive bash`
+```
+docker run -it github.com/robingenz/docker-texlive bash
+```
 
 ## Questions / Issues
 
